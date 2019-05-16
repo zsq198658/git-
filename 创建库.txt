@@ -1,0 +1,6 @@
+1、本地创建一个空目录  
+2、通过git init命令把这个目录变成Git可以管理的仓库  
+3、在本地编写一个readme.txt文件，上传到仓库  （可多次上传）
+         git add readme.txt  
+4、用命令git commit告诉Git，把文件提交到仓库
+        git commit -m "本次操作的说明，如：上传readme.txt文件"   
